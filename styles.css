@@ -1,0 +1,11 @@
+.btn{
+    font-size: 19pt;
+    border-radius:10%;
+    border:3px solid #009999;
+    background-color:#009999;
+    padding: 5px 5px 5px 5px;
+}
+        
+.btn:hover{
+    background-color:#e6f0ed;
+}
